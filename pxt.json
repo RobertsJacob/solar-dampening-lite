@@ -1,0 +1,73 @@
+{
+    "name": "Solar Dampening Lite",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "controller": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1",
+        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#c8b01b9d47f85a5133c786f1c026b1f376fe4285",
+        "Custom Systemmenu Options": "github:meeeeeeeep1/custom-systemmenu-options#55a5f850d6debf3fa843202a6cd96b5004f8eb23",
+        "ColorBlock": "github:UnsignedArduino/ColorBlock#ac7b9500e40045cf1ddd8c5b7481d11bcb317f5f",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-premium-life": "github:jwunderl/arcade-premium-life#v0.2.1",
+        "pxt-countup": "github:shakao/pxt-countup#v0.0.2",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.0.13",
+        "pxt-clock": "github:Blobbey2000/pxt-clock#v1.10.4",
+        "Declutter": "github:S0m3randomguy/declutter#6b0626bf1bd2c7d9a70b846031b5226e48ee932a",
+        "arcade-block-objects": "github:microsoft/arcade-block-objects#f486ac1d4dcc096b9297174f97f8cdef1576c7ff",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.0",
+        "Enums": "github:S0m3randomguy/enums#043835b8d42dbeddc37e7bc47c8e72f8c99a1765"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.41",
+        "tag": "v1.12.41",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/58673437825ecb93a220c8f58a6f9bb5693896ba",
+        "target": "1.12.56",
+        "pxt": "8.5.52",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#2F2640",
+        "#2AA264",
+        "#147123",
+        "#249CA3",
+        "#397382",
+        "#C7C7C7",
+        "#919191",
+        "#636363",
+        "#7D7D7D",
+        "#FFFFFF",
+        "#000000",
+        "#FF7F11",
+        "#FFFB46",
+        "#E6DE00",
+        "#D57531"
+    ]
+}
